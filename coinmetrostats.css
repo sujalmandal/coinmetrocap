@@ -81,7 +81,7 @@ li.file.total {
 	transition: color 0.25s, width 0.5s, height 0.5s;
 }
 .jumbotron .lead {
-	font-size: 21px;
+	font-size: 18px;
 	font-weight: 200;
 	line-height: 30px;
 	margin-bottom: 20px;
@@ -154,7 +154,7 @@ li.file.total {
 		margin: 20px 0 30px;
 	}
 	.jumbotron .lead {
-		font-size: 18px;
+		font-size: 15px;
 	}
 	.jumbotron .btn,
 	.alert,
