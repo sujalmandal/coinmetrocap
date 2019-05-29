@@ -65,7 +65,7 @@ li.file.total {
 }
 .jumbotron h1 {
 	font-family: inherit;
-	font-size: 100px;
+	font-size: 30px;
 	font-weight: 700;
 	line-height: 1;
 	cursor: default;
@@ -87,6 +87,11 @@ li.file.total {
 	margin-bottom: 20px;
 	transition: font-size 0.5s;
 	color: #bbb;
+}
+.disclaimer{
+	font-size: 12px;
+	transition: font-size 0.5s;
+	color: rgb(207, 11, 11);
 }
 .jumbotron .btn {
 	background: rgba(30, 30, 30, 0.75);
