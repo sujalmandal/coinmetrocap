@@ -1,0 +1,19 @@
+{
+  "name": "coinmetrocap",
+  "version": "1.0.0",
+  "description": "coinmetro index website",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.0.1",
+    "npm": "^6.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [
+    "coinmetro"
+  ],
+  "author": "Sujal Mandal",
+  "license": "ISC"
+}
